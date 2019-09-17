@@ -1,0 +1,21 @@
+Sat Sep 14 14:42:25 2019 parsing error to https://www.adidas.ru/muzhchiny-obuv-krossovki%7Czimnie_krossovki-outlet
+Sat Sep 14 14:44:04 2019 parsing error from https://www.endclothing.com/row/sale/sale-clothing
+Sat Sep 14 14:44:10 2019 parsing error to https://www.adidas.ru/muzhchiny-obuv-krossovki%7Czimnie_krossovki-outlet
+Sat Sep 14 14:44:40 2019 parsing error to https://www.adidas.ru/muzhchiny-obuv-krossovki%7Czimnie_krossovki-outlet
+Sat Sep 14 14:44:59 2019 parsing error to https://www.adidas.ru/muzhchiny-obuv-krossovki%7Czimnie_krossovki-outlet
+Sat Sep 14 14:45:53 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:03 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:08 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:20 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:25 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:32 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:38 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:47 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:46:53 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:47:02 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:47:07 2019 GLOBAL ERROR!!!
+Sat Sep 14 14:53:53 2019 parsing error from https://www.endclothing.com/row/sale/sale-clothing
+Sat Sep 14 14:55:57 2019 parsing error from https://www.endclothing.com/row/sale/sneakers?brand=A%20Bathing%20Ape~Adidas~Adidas%20Consortium~Adidas%20Spezial~Adidas%20x%20Raf%20Simons~Alexander%20McQueen~Asics~Calvin%20Klein%20205W39NYC~Comme%20des%20Gar%C3%A7ons%20Play~Comme%20des%20Gar%C3%A7ons%20SHIRT~Converse~Diadora~ETQ.%20Amsterdam~Fred%20Perry%20Authentic~Givenchy~Gosha%20Rubchinskiy~Kenzo~Maison%20Margiela~McQ%20Alexander%20McQueen~Neighborhood~New%20Balance~Nike~Nike%20Jordan~Nike%20x%20Undercover%20Gyakusou~Off-White~PACCBET~Paul%20Smith~Polo%20Ralph%20Lauren~Puma~Reebok~Saint%20Laurent~Saucony~The%20North%20Face~Tommy%20Jeans~Vans~Vans%20Vault~Versace~Y-3
+Sat Sep 14 14:58:01 2019 parsing error to https://www.adidas.ru/muzhchiny-obuv-krossovki%7Czimnie_krossovki-outlet
+Sat Sep 14 14:59:02 2019 parsing error from https://www.endclothing.com/row/sale/sneakers?brand=A%20Bathing%20Ape~Adidas~Adidas%20Consortium~Adidas%20Spezial~Adidas%20x%20Raf%20Simons~Alexander%20McQueen~Asics~Calvin%20Klein%20205W39NYC~Comme%20des%20Gar%C3%A7ons%20Play~Comme%20des%20Gar%C3%A7ons%20SHIRT~Converse~Diadora~ETQ.%20Amsterdam~Fred%20Perry%20Authentic~Givenchy~Gosha%20Rubchinskiy~Kenzo~Maison%20Margiela~McQ%20Alexander%20McQueen~Neighborhood~New%20Balance~Nike~Nike%20Jordan~Nike%20x%20Undercover%20Gyakusou~Off-White~PACCBET~Paul%20Smith~Polo%20Ralph%20Lauren~Puma~Reebok~Saint%20Laurent~Saucony~The%20North%20Face~Tommy%20Jeans~Vans~Vans%20Vault~Versace~Y-3
+Sat Sep 14 14:59:05 2019 parsing error to https://www.adidas.ru/muzhchiny-obuv-krossovki%7Czimnie_krossovki-outlet
