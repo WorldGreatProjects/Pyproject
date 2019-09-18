@@ -16,7 +16,7 @@ from reebok import Reebok
 TOKEN : str= "821455349:AAEPBbnU4hCsjcKpP3BbM2sxwsayTx_DMGg"
 
 
-def GetClothing():#message: Message):
+def GetClothing():
         headers : dict = { "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
         item_list = []
         item_list.extend(GetEnd(Flag = False))
@@ -31,7 +31,7 @@ def GetClothing():#message: Message):
         bot.send_photo("@bigweargang",image.content ,caption = item.info())
         item_list.clear()
 
-def GetSneakers():#message: Message):
+def GetSneakers():
         headers : dict = { "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"}
         item_list = []
         item_list.extend(GetEnd(Flag = True))
