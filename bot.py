@@ -55,8 +55,10 @@ def GetSneakers():
 bot = telebot.TeleBot(TOKEN)
 
 def main():
-        schedule.every().day.at("13:00").do(GetSneakers)
-        schedule.every().day.at("03:00").do(GetClothing)
+        schedule.every(3).seconds.do(GetSneakers)
+        schedule.every(8).seconds.do(GetClothing)
+        #schedule.every().day.at("13:00").do(GetSneakers)
+        #schedule.every().day.at("03:00").do(GetClothing)
         while True:
                 schedule.run_pending()
                 time.sleep(1)
