@@ -75,7 +75,11 @@ def GetAdidas():
         return item_list
     done_list = []
     for i in range(10):
-        done_list.append(item_list.pop(random.randint(0,len(item_list)-1)))
-    return done_list
+        if item_list != 0:
+            done_list.append(item_list.pop(random.randint(0,len(item_list)-1)))
+            return done_list
+           else:
+            return item_list
+    
 
 
