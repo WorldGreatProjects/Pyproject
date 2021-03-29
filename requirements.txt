@@ -33,7 +33,7 @@ py==1.8.0
 PyAutoGUI==0.9.46
 pygame==1.9.6
 PyGetWindow==0.0.6
-Pygments==2.4.2
+Pygments==2.7.4
 PyInstaller==3.5
 pylint==2.3.1
 PyMsgBox==1.0.7
