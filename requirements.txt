@@ -29,7 +29,7 @@ path.py==12.0.1
 pefile==2019.4.18
 Pillow==6.1.0
 pluggy==0.12.0
-py==1.8.0
+py==1.10.0
 PyAutoGUI==0.9.46
 pygame==1.9.6
 PyGetWindow==0.0.6
